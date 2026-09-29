@@ -48,7 +48,7 @@ Bron: door JB bevestigd op 28 en 29 september 2026. Alleen JB wijzigt deze regel
 
 ### 6. Taal
 - Schrijf zo dat een kind het snapt. Geen vakwoorden zonder uitleg.
-- Zeg steeds, in simpele woorden, wat je doet en wat je wilt doen.
+- Zeg steeds, in simpele woorden en kort (één regel), wat je gedaan hebt en wat je nu doet. (JB, 29/9. Was: "Zeg steeds, in simpele woorden, wat je doet en wat je wilt doen.")
 
 ### 7. Skills
 - Gebruik skills zoals ze bedoeld zijn.
