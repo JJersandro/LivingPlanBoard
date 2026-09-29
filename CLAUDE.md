@@ -82,6 +82,9 @@ Een project bestaat al, zonder LPB. Dan wordt de skill aangeroepen. Daarna:
 
 Tussen elke stap zit een poortje: zonder "klopt" ga je niet verder.
 
+### Volgende stap (JB, 29/9)
+Stap 0 van de startvolgorde, op het LivingPlanBoard zelf.
+
 ### Wanneer deze werkwijze af is
 JB (letterlijk): "Wanneer de richting van het project werkt en klopt. wanneeer er juist projectmatig gewerkt wordt."
 
