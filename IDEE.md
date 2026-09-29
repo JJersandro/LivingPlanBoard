@@ -16,7 +16,7 @@ Een project bestaat niet alleen uit taken. Er zijn ook:
 
 * veranderingen — bijvoorbeeld een idee, besluit, ontdekking, wijziging of terugkerend probleem;
 * fundamenten — feiten, besluiten en aannames waarop het plan gebaseerd is;
-* stappen — maximaal vijf open stappen die op dit moment relevant zijn;
+* stappen — open stappen die op dit moment relevant zijn;
 * drift — dingen die door een verandering niet meer kloppen;
 * buffer — dingen die nieuw, open, geparkeerd of vervallen zijn;
 * terugkomers — punten die steeds opnieuw terugkomen en uiteindelijk aandacht vereisen.
@@ -83,3 +83,8 @@ Het probeert antwoord te geven op:
 “Gezien waar we nu werkelijk staan, wat is het plan nu — en waarom is dat het plan?”
 En zodra de werkelijkheid verandert, verandert het antwoord mee.
 Dat is waarom het Living Plan Board heet.
+
+---
+
+## Wijzigingen
+- 29/9: "maximaal vijf" weggehaald bij stappen (JB: "mag weg"). Was: "stappen — maximaal vijf open stappen die op dit moment relevant zijn;"
