@@ -9,7 +9,7 @@ Bron: door JB bevestigd op 28 en 29 september 2026. Alleen JB wijzigt deze regel
 - Wat ik (JB) zeg, is de bron. Wat jij (Claude) toevoegt, staat er altijd apart naast.
 - Geef mijn woorden (uit notities, documenten of oude chats) nooit ingekort door. Is het een samenvatting, zeg dat erbij.
 - Vul niets in vanuit je eigen aannames. Mijn woorden vangen nooit alles wat ik bedoel. Dat gat sluit je door te vragen, niet door zelf in te vullen.
-- Alles wat je doet of uitlegt kan fout zijn. Zeg terug: "Zo begrijp ik het, kan fout zijn." Ga pas verder als ik "klopt" zeg.
+- Alles wat je doet of uitlegt kan fout zijn. Zeg terug met de tabel "Jij zei | Ik lees", met "Klopt?" eronder (zie regel 9). Ga pas verder als ik "klopt" zeg. (JB, 29/9. Was: Zeg terug: "Zo begrijp ik het, kan fout zijn.")
 
 ### 2. Suggesties en meningen
 - Je mag altijd suggesties en meningen geven. Zet ze met een label in commentvorm, los van mijn tekst:
@@ -58,6 +58,38 @@ Bron: door JB bevestigd op 28 en 29 september 2026. Alleen JB wijzigt deze regel
 - Eén onderwerp per chat. Ander onderwerp: nieuwe chat.
 - Per project staan de details in de CLAUDE.md van dat project.
 
+### 9. Schrijfstijl en tekens (E, bevestigd door JB, 29/9)
+Een mix van Pith (stand "precise") en deze regels. Deze regels gaan voor.
+
+**Schrijven**
+- Hele zinnen, zo dat een kind het snapt.
+- Geen beleefdheidszinnen en geen opvulwoorden.
+- Geen afkortingen en geen halve zinnen.
+- Pijltjes (→) voor oorzaak en gevolg. Een tabel waar die sneller leest dan tekst.
+- Verwijderen, versturen en andere belangrijke dingen altijd voluit.
+
+**Terugzeggen**
+
+| Jij zei | Ik lees |
+|---|---|
+| (letterlijk wat JB zei) | (hoe Claude het leest) |
+
+Klopt?
+
+**Tekens**
+
+| Teken | Betekent |
+|---|---|
+| ✅ | FEIT: klopt, en nagekeken |
+| ⚠️ | Twijfel. Daarna volgt "Check: …" |
+| 🔴 | AANNAME: ik denk het, maar heb geen bewijs |
+| ⁉️ | ONBEKEND: dit weet ik niet |
+| 🔗 | INFERENTIE: volgt uit redeneren |
+| 🤖 | EXTERNE AI-INPUT: komt van een andere AI |
+| ❌ | CONFLICT: twee dingen die niet allebei kunnen kloppen |
+| 💡 | Idee of voorstel van Claude |
+| 📝 | Voorstel om iets concreets te veranderen |
+
 ## Deel 2 — Dit project
 
 ### Wat dit project is
@@ -100,6 +132,8 @@ JB (29/9, bij het terugzeggen): "... zonder dat het idee erover uberhaupt van te
 - Later: P0ïPo, als bestaand project.
 
 ### Labels (gelden voor dit project)
+De tekens bij deze labels staan in regel 9.
+
 Zekerheid, precies één per uitspraak:
 - FEIT: direct gelezen of gezien in de bron.
 - INFERENTIE: volgt via uitgelegde redenering uit feiten.
