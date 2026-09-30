@@ -60,6 +60,8 @@ Dit hoort er altijd bij (JB: "Yess het hoort het zeker altijd bij."). Uitgebreid
 ### Mensen en beslissen
 - Meerdere mensen kunnen samen aan één bord werken. Een project kan meerdere mensen en meerdere resources hebben (mensen, gereedschap, geld, materiaal en dergelijke).
 - Alleen de eigenaar beslist. Anderen kunnen voorstellen doen.
+- Wie een project aanmaakt, is de eigenaar van dat project. De eigenaar kan het eigenaarschap aan iemand anders geven.
+- Een voorstel blijft open tot de eigenaar het goedkeurt, afwijst of parkeert. Bij elk voorstel zie je wie het deed.
 
 ### Motiveren en meldingen
 - Het bord helpt en motiveert als het open is.
@@ -78,7 +80,37 @@ Dit hoort er altijd bij (JB: "Yess het hoort het zeker altijd bij."). Uitgebreid
 | Plek | Eerst een artifact binnen Claude, later JB's laptop, waar ook Nos R.Ai.S. op draait. |
 | Voor wie | Generiek: iedereen kan het gebruiken. JB's naam staat duidelijk in de code. |
 | Daarna | JB's eigen versie, ingebouwd in P0ïPo als één van de P0ïPoApps. Dat is een apart project. |
-| Af wanneer | Als JB het echt kan gebruiken. |
+| Af wanneer | Als JB het echt kan gebruiken. Zie "Fases" hieronder. |
+
+### Fases: wat komt wanneer
+
+| Onderdeel | Fase 1: artifact binnen Claude | Fase 2: laptop met Nos R.Ai.S. |
+|---|---|---|
+| Leeg bord → chatbox vraagt om input | Ja | Ja |
+| Startvolgorde 0–7 met poortjes | Ja | Ja |
+| Dashboard: nu te doen, in één oogopslag, waar je staat | Ja | Ja |
+| Roadmap met fases, mijlpalen en mijlpaatjes | Ja | Ja |
+| Werkpunten die openklappen met stappenplan | Ja | Ja |
+| Grafieken | Ja | Ja |
+| Het levende deel: fundamenten, drift, voorstellen | Ja | Ja |
+| Praatbalk | Ja, met Claude | Ja, met een offline AI |
+| Meerdere projecten, elk met een eigen omgeving | Ja | Ja |
+| Meerdere mensen op één bord | Ja, via gedeelde opslag van het artifact | ONBEKEND: hoe mensen bij de laptop komen |
+| Tijdlijn: bekijken en terugzetten | Ja | Ja |
+| Bestanden uploaden | Ja | Ja |
+| Koppelen met OneDrive | Nee: er is nu geen OneDrive-koppeling | Ja, via de map `LPB/` in de projectmap |
+| Zelf nieuwe bestanden vinden | Nee: het artifact kan niet in mappen kijken | Ja |
+| Melding op de telefoon als het bord dicht is | Nee: het artifact kan geen bericht sturen | ONBEKEND: hoe dat gaat |
+| Bewaren | In de opslag van het artifact | In de map `LPB/` in de projectmap |
+
+**Af wanneer, per fase**
+
+| Fase | Af wanneer |
+|---|---|
+| Fase 1 | JB heeft één echt project helemaal doorlopen in het artifact, van een leeg bord tot het eindproduct van dat project. |
+| Fase 2 | Hetzelfde, maar dan op de laptop, zonder internet, met OneDrive en meldingen. |
+
+Fases, "af wanneer" en eigenaar: voorstellen van Claude, door JB overgenomen met "Klopt." (30/9).
 
 ---
 
@@ -134,3 +166,9 @@ Dit hoort er altijd bij (JB: "Yess het hoort het zeker altijd bij."). Uitgebreid
 2. "Yess zulke dingen inderdaad." (resources: mensen, gereedschap, geld, materiaal)
 3. "Telefoon." (meldingen)
 - "Klopt verder."
+
+**Ronde 9** (verbeterpunten van Claude)
+- "Klopt!  Is af. Tenzij je suggesties heb of meer vragen. Of verbeter punten, idk?"
+- "Ik neem de punten nu. En desnoods uitgebreider. Voor de juiste details en context."
+- "Klopt." (fases, af wanneer, eigenaar)
+- Punt 4 (terugzetten): "Er wordt een snapshot gemaakt van de punt waar je van op terug valt. Zodat die ook opgeslagen blijft omdat men vaak alsnog terug wilt vallen."
