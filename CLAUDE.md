@@ -117,7 +117,7 @@ Tussen elke stap zit een poortje: zonder "klopt" ga je niet verder.
 ### Volgende stap (JB, 29/9)
 Bij het begin van elke chat begint Claude hier zelf mee, zonder dat JB het hoeft te zeggen.
 
-Stap 0 van de startvolgorde, op het LivingPlanBoard zelf.
+Stap 3 van de startvolgorde, op het LivingPlanBoard zelf. De stand staat in `HANDOFF.md`. (JB, 30/9. Was: "Stap 0 van de startvolgorde, op het LivingPlanBoard zelf.")
 
 ### Wanneer deze werkwijze af is
 JB (letterlijk): "Wanneer de richting van het project werkt en klopt. wanneeer er juist projectmatig gewerkt wordt."

@@ -55,6 +55,6 @@ De startvolgorde uit `CLAUDE.md` (stap 0 t/m 7) doorlopen op het LivingPlanBoard
 1. Wacht op JB's antwoorden op stap 3. Zeg ze terug met de tabel, tot "klopt".
 2. 📝 Nog open, wacht op ja: JB's antwoorden van stap 2 letterlijk onderaan `IDEE.md` zetten, onder "Stap 2 — besproken".
 3. `~/.claude/CLAUDE.md` op JB's computer bijwerken met regel 1, 6 en 9. Kon niet: de computer was niet bereikbaar. JB heeft daar al ja op gezegd.
-4. ❌ In `CLAUDE.md` staat bij "Volgende stap" nog "Stap 0". Dat klopt niet meer. Aanpassen alleen na JB's ja.
-5. ⚠️ Projectdocument `claude/handoff.md` in het claude.ai-project is verouderd. Check bij JB: vervangen door een verwijzing naar dit bestand, zoals bij `claude/lpb-anker.md`?
+4. ✅ Gedaan (30/9, op JB's ja): in `CLAUDE.md` staat bij "Volgende stap" nu stap 3.
+5. ✅ Gedaan (30/9, op JB's ja): projectdocument `claude/handoff.md` is nu alleen een verwijzing naar dit bestand.
 6. Geparkeerd, pas oppakken als JB het zegt: zijn vraag over documenten. Letterlijk: "mocht ik de docs erbij willen, dan heb ik een vraag aan jou om te weten, of het de juiste documenten zijn voor bij een begin project of niet..? of of er een andere manier is of hoe jij het zou aanpakken bij het begin van een project of in deze soortgelijke fase." Het gaat om PRD, TRD, UI/UX-design, appflow, backend-schema en implementatieplan.
