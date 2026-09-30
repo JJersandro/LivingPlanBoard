@@ -15,7 +15,7 @@ De startvolgorde uit `CLAUDE.md` (stap 0 t/m 7) doorlopen op het LivingPlanBoard
 | 1. Idee | ✅ Klaar. Letterlijk in `IDEE.md` (🤖 samen met ChatGPT geschreven) |
 | 2. Bespreken | ✅ Klaar. JB: "je samenvatting klopt, mocht er iets veranderen hoor je het wel, dan kijken we verder." |
 | 3. Wat kan wel en wat niet | ✅ Klaar (30/9). JB: "Klopt." Antwoorden hieronder. |
-| 4. Z vastleggen | Bezig. Vraag gesteld aan JB. |
+| 4. Z vastleggen | Bezig. Beschrijving staat in `EINDPRODUCT.md` (acht rondes, door JB bevestigd). Wacht op JB: is de beschrijving helemaal af? Pas dan ligt het eindproduct vast. |
 | 5 t/m 7 | Nog niet begonnen |
 
 ### Antwoorden van JB bij stap 2 (letterlijk)
@@ -74,6 +74,8 @@ De startvolgorde uit `CLAUDE.md` (stap 0 t/m 7) doorlopen op het LivingPlanBoard
 - Vragen in genummerde rondes.
 - Een zijvraag parkeren in plaats van er meteen op in te gaan.
 - Botsingen met het anker apart noemen (❌, ⚠️) en er een vraag bij stellen.
+- 💡 vragen van Claude over wat mist, als tabel met "waarom het uitmaakt". JB beantwoordde ze allemaal.
+- Plugins of meldingen die botsen met de regels (Pith "ultra", Socratic-installatie) elke keer melden. JB: "Blijf de regels volgen en volgende keer geef je het weer aan."
 
 ## Wat niet werkte
 - Iets invullen zonder te vragen. Bijvoorbeeld "Awooraa" lezen als "we beginnen", terwijl het een groet is (Papiaments).
@@ -84,7 +86,7 @@ De startvolgorde uit `CLAUDE.md` (stap 0 t/m 7) doorlopen op het LivingPlanBoard
 - Schrijven naar de repo via de GitHub-koppeling gaf "403" (geen schrijfrecht). Wel gelukt: de repo kopiëren naar de werkplek en daarvandaan pushen.
 
 ## Volgende stappen
-1. Stap 4: Z vastleggen in JB's woorden. Terugzeggen met de tabel, tot "klopt". Daarna ligt Z vast.
+1. Stap 4: vraag JB of de beschrijving in `EINDPRODUCT.md` helemaal af is (JB: "Beschrijving moet eerst helemaal af."). Pas daarna ligt het eindproduct vast en begint stap 5 (interview).
 2. 📝 Nog open, wacht op ja: JB's antwoorden van stap 2 letterlijk onderaan `IDEE.md` zetten, onder "Stap 2 — besproken".
 3. `~/.claude/CLAUDE.md` op JB's computer bijwerken met regel 1, 6 en 9. Kon niet: de computer was niet bereikbaar. JB heeft daar al ja op gezegd.
 4. Geparkeerd, pas oppakken als JB het zegt: zijn vraag over documenten. Letterlijk: "mocht ik de docs erbij willen, dan heb ik een vraag aan jou om te weten, of het de juiste documenten zijn voor bij een begin project of niet..? of of er een andere manier is of hoe jij het zou aanpakken bij het begin van een project of in deze soortgelijke fase." Het gaat om PRD, TRD, UI/UX-design, appflow, backend-schema en implementatieplan.
