@@ -15,8 +15,9 @@ De startvolgorde uit `CLAUDE.md` (stap 0 t/m 7) doorlopen op het LivingPlanBoard
 | 1. Idee | ✅ Klaar. Letterlijk in `IDEE.md` (🤖 samen met ChatGPT geschreven) |
 | 2. Bespreken | ✅ Klaar. JB: "je samenvatting klopt, mocht er iets veranderen hoor je het wel, dan kijken we verder." |
 | 3. Wat kan wel en wat niet | ✅ Klaar (30/9). JB: "Klopt." Antwoorden hieronder. |
-| 4. Z vastleggen | Bezig. Beschrijving staat in `EINDPRODUCT.md` (acht rondes, door JB bevestigd). Wacht op JB: is de beschrijving helemaal af? Pas dan ligt het eindproduct vast. |
-| 5 t/m 7 | Nog niet begonnen |
+| 4. Z vastleggen | ✅ Klaar (30/9). Vastgelegd in `EINDPRODUCT.md`. JB: "Ja". |
+| 5. Interview | Bezig. Ronde 1 gesteld. |
+| 6 en 7 | Nog niet begonnen |
 
 ### Antwoorden van JB bij stap 2 (letterlijk)
 1. Roadmap: "hier bedoel ik een roadmap waarbij je de volgende stappen in kan zien.. de fases, de mijlpalen en dergelijke.. gewoon een visueel overzicht.. en met uitleg met aangekozen onderdeel of fase of mijlpaal."
@@ -86,7 +87,8 @@ De startvolgorde uit `CLAUDE.md` (stap 0 t/m 7) doorlopen op het LivingPlanBoard
 - Schrijven naar de repo via de GitHub-koppeling gaf "403" (geen schrijfrecht). Wel gelukt: de repo kopiëren naar de werkplek en daarvandaan pushen.
 
 ## Volgende stappen
-1. Stap 4: vraag JB of de beschrijving in `EINDPRODUCT.md` helemaal af is (JB: "Beschrijving moet eerst helemaal af."). Pas daarna ligt het eindproduct vast en begint stap 5 (interview).
+1. Stap 5: interview. Open vragen over alles wat het plan nog nodig heeft. Antwoorden terugzeggen met de tabel, tot "klopt".
+6. ✅ Gedaan (30/9): stap 4 afgerond. Eindproduct vastgelegd in `EINDPRODUCT.md`, volgende stap in `CLAUDE.md` is stap 5.
 2. 📝 Nog open, wacht op ja: JB's antwoorden van stap 2 letterlijk onderaan `IDEE.md` zetten, onder "Stap 2 — besproken".
 3. `~/.claude/CLAUDE.md` op JB's computer bijwerken met regel 1, 6 en 9. Kon niet: de computer was niet bereikbaar. JB heeft daar al ja op gezegd.
 4. Geparkeerd, pas oppakken als JB het zegt: zijn vraag over documenten. Letterlijk: "mocht ik de docs erbij willen, dan heb ik een vraag aan jou om te weten, of het de juiste documenten zijn voor bij een begin project of niet..? of of er een andere manier is of hoe jij het zou aanpakken bij het begin van een project of in deze soortgelijke fase." Het gaat om PRD, TRD, UI/UX-design, appflow, backend-schema en implementatieplan.

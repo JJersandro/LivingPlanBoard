@@ -1,6 +1,6 @@
 # LPB — Eindproduct (stap 4)
 
-> Stand: 30/9/2026. Nog niet vastgelegd: JB zegt zelf wanneer de beschrijving helemaal af is. Pas dan ligt het eindproduct vast.
+> **Vastgelegd op 30/9/2026.** Claude vroeg: "Ligt het eindproduct vast?" JB: "Ja". Vanaf hier ligt het eindproduct vast. Verschuift het toch, dan geldt de regel "Als Z verschuift" uit `ANKER.md`.
 > Deel 1 is een samenvatting door Claude. JB zei op die samenvatting: "Ja het kloptt." en "Klopt op alles." (30/9).
 > Deel 2 zijn JB's woorden, letterlijk. Bij twijfel gaat deel 2 voor.
 
