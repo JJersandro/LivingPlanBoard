@@ -34,7 +34,7 @@ Het LPB is een planbord in de vorm van een dashboard dat meebeweegt met je proje
 | Waar je staat | Waar je vandaan komt, waar je nu staat, wat ontbreekt, waar het heen gaat. |
 | Bestanden | Alles wat bij het project hoort, makkelijk te bekijken. Uploaden kan, en koppelen, te beginnen met OneDrive. |
 | Praatbalk | Een balk die je kunt openen om met het systeem te praten. Het helpt je, houdt je gemotiveerd, haalt dingen op en laat ze als plaatje zien, en brainstormt met je. Nu met Claude, later met een AI die zonder internet op de laptop draait. |
-| Tijdlijn | De geschiedenis van het project. Je kunt zien wat er op een eerder moment was, en het bord terugzetten naar dat moment (bijvoorbeeld na het per ongeluk uploaden van verkeerde bestanden). |
+| Tijdlijn | De geschiedenis van het project. Je kunt zien wat er op een eerder moment was, en het bord terugzetten naar dat moment (bijvoorbeeld na het per ongeluk uploaden van verkeerde bestanden). Voor het terugzetten maakt het bord eerst een snapshot (een vaste kopie) van hoe het nu is. Die blijft bewaard, zodat je altijd weer terug kunt. Alleen de gegevens van het bord gaan terug; de projectbestanden blijven zoals ze zijn. |
 | Projecten | Meerdere projecten op één bord. Elk project heeft een eigen omgeving. |
 
 ### Wat eronder gebeurt: het levende deel
@@ -107,7 +107,7 @@ Dit hoort er altijd bij (JB: "Yess het hoort het zeker altijd bij."). Uitgebreid
 
 | Fase | Af wanneer |
 |---|---|
-| Fase 1 | JB heeft één echt project helemaal doorlopen in het artifact, van een leeg bord tot het eindproduct van dat project. |
+| Fase 1 | JB heeft één echt project helemaal doorlopen in het artifact, van een leeg bord tot het eindproduct van dat project. Het testproject is het LPB-project zelf: een project dat al loopt, met het bestaande werk geüpload (startvolgorde stap 0). |
 | Fase 2 | Hetzelfde, maar dan op de laptop, zonder internet, met OneDrive en meldingen. |
 
 Fases, "af wanneer" en eigenaar: voorstellen van Claude, door JB overgenomen met "Klopt." (30/9).
@@ -172,3 +172,6 @@ Fases, "af wanneer" en eigenaar: voorstellen van Claude, door JB overgenomen met
 - "Ik neem de punten nu. En desnoods uitgebreider. Voor de juiste details en context."
 - "Klopt." (fases, af wanneer, eigenaar)
 - Punt 4 (terugzetten): "Er wordt een snapshot gemaakt van de punt waar je van op terug valt. Zodat die ook opgeslagen blijft omdat men vaak alsnog terug wilt vallen."
+- Wat gaat er terug: "Niet de bestanden nee. Alleen de rest."
+- Testproject fase 1: "Met dit eigen LivingBoardPlan project."
+- "Klopt"
